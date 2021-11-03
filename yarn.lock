@@ -45,9 +45,9 @@
   integrity sha512-1Pyeazf2xnR3baELRB8eFU2paTCHJ3jqyOF8Qu3v+SksZYxav2Es1fD+qSgNDZLdcM87eZsUecmDqhvynJ0LIw==
 
 "@quasar/vite-plugin@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@quasar/vite-plugin/-/vite-plugin-1.0.1.tgz#52010a2e5b0cf691d3af1ee0d6c1137c7d2375a7"
-  integrity sha512-8tfVsGSacN9ihWHBixJai6GYj38pIwrMUTsHs1Kce47oWTXsXzRdzI8Ib35X7jy4A8R6/+sT21cWGsucc5r2Lg==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@quasar/vite-plugin/-/vite-plugin-1.0.2.tgz#392b7cab64e10eb309015fc907c0775889c0e959"
+  integrity sha512-iIE2RfmXZW97Mx+QUoYwlrtraQARmeHAhEi0GVknFjo6J4keSv9jS6iHQo9mu8AalzKG6eGnltgZf9JIKc7lEA==
 
 "@vitejs/plugin-vue@^1.9.3":
   version "1.9.4"
